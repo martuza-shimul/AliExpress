@@ -1,0 +1,152 @@
+
+
+.navbar {
+    min-height: 65px;
+    
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 50%; 
+    /*right: 0;*/
+    
+}
+.navbar {
+    
+     margin-bottom: 0px; 
+    
+    }
+.search{
+	margin-left: -10px
+}
+a:focus, a:hover {
+    color: #000;
+    text-decoration: none;
+}
+.dropdown-toggle {
+    color: #000;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+    margin-left: -5px;
+    /* margin-top: 0px; */
+    /*border-left: none;*/
+}
+
+.slider_sec_wrapper{
+	background-color: #F6EDE1;
+	margin: 0 -15px;
+	padding: 0 30px 0px 30px;
+}
+.righ_sidebar_wrapper{
+	margin: 0 -15px;
+	width: 50px;
+	height: 100%;
+	background-color: #000;
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+}
+.slider_sec{
+	background-color: #fff;
+}
+.space{
+	margin-left: 10px
+}
+.separator{
+	margin-top: 20px;
+}
+
+.user_img{
+	margin: 0 auto;
+	border-radius: 50%;
+}
+
+.offer_img{
+	margin: 0 auto;
+}
+
+.user_section button{
+	width: 90px;
+}
+
+.price{
+	font-weight: 900;
+	font-size: 14px;
+	color: #000;
+	margin-top: 10px;
+}
+.cat_title{
+	font-weight: 700;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+.category_wrapper{
+	background-color: #FF411B;
+	margin: 0 -15px;
+	padding: 20px;
+}
+
+.category_wrapper h3, .brand_zone_wrapper h3, .inspiration_wrapper h3, .love_wrapper h3{
+	
+	font-size: 32px;
+	font-weight: 700;
+}
+.category_wrapper h3{
+	color: #fff;
+}
+.category{
+	padding: 10px 5px;
+	background-color: #fff;
+	border-radius: 5px;
+}
+.category p a{
+	text-decoration: none;
+	
+	color: #fff;
+	padding: 15px;
+	font-size: 15px;
+	font-weight: 700;
+	text-align: center;
+	border-radius: 4px;
+	margin-top: 5px;
+	width: 100%;
+	/*margin: 0 auto;*/
+}
+.pink{
+	background-color: #F340DF;
+}
+.red{
+	background-color: #D72626;
+}
+.orange{
+	background-color: #FF8300;
+}
+.teal{
+	background-color: #10D2F5;
+}
+.green{
+	background-color: #00C163;
+}
+.coral{
+	background-color: #FF7E4F;
+}
+.offer img, .brand_zone_wrapper img, .inspiration_wrapper img, .love_wrapper img{
+	border-radius: 5px;
+}
+.view{
+	text-decoration: none;
+	color: #000;
+}
+.devider{
+	margin-top: 50px;
+}
+
+.inspiration_wrapper h4, .love_wrapper h4{
+	font-size: 24px;
+	font-weight: 700px;
+	line-height: 38px;
+}
